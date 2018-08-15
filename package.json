@@ -1,29 +1,29 @@
 {
-    "title": "Creative",
-    "name": "startbootstrap-creative",
-    "version": "4.1.1",
-    "description": "Creative is a stylish one page HTML theme for Bootstrap.",
+    "title": "eos90s",
+    "name": "eos90s",
+    "version": "1.0.1",
+    "description": "A EOS block producer from changsha china.",
     "keywords": [
-        "css",
-        "sass",
-        "html",
-        "responsive",
-        "theme",
-        "template"
+        "eos",
+        "eos90后",
+        "eos90s",
+        "bp",
+        "blockchain",
+        "block producer"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/creative",
+    "homepage": "http://www.eos90s.io",
     "bugs": {
         "url": "https://github.com/BlackrockDigital/startbootstrap-creative/issues",
         "email": "feedback@startbootstrap.com"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
+    "author": "simors",
     "contributors": [
-        "David Miller (http://davidmiller.io/)"
+        "Wan Peng (email: 297169066@qq.com)"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-creative.git"
+        "url": ""
     },
     "dependencies": {
         "bootstrap": "4.1.1",
