@@ -320,3 +320,25 @@ header.masthead p {
 .team-item {
   padding-bottom: 1.0rem;
 }
+
+a.wechat{
+  position:relative;
+}
+.wechat::after{
+  content: url("../img/team/wechat.jpeg");
+  position: absolute;
+  right: -10px;
+  top: -100px;
+  z-index: 99;
+  transform-origin: top right;
+  transform: scale(0);
+  opacity: 0;
+  -webkit-transition: all .4s ease-in-out;
+  -o-transition: all .4s ease-in-out;
+  transition: all .4s ease-in-out;
+}
+
+.wechat:hover::after{
+  transform:scale(1);
+  opacity: 1;
+}
