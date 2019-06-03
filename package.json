@@ -1,17 +1,14 @@
 {
-    "title": "eos90s",
-    "name": "eos90s",
+    "title": "wtcdx",
+    "name": "wtcdx",
     "version": "1.0.1",
     "description": "A EOS block producer from changsha china.",
     "keywords": [
-        "eos",
-        "eos90后",
-        "eos90s",
-        "bp",
-        "blockchain",
-        "block producer"
+        "充电线",
+        "共享",
+        "充电宝",
     ],
-    "homepage": "http://www.eos90s.io",
+    "homepage": "http://www.wtcdx.cn",
     "bugs": {
         "url": "https://github.com/BlackrockDigital/startbootstrap-creative/issues",
         "email": "feedback@startbootstrap.com"
